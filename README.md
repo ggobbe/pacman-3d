@@ -1,4 +1,4 @@
-pacman-3d
+Pacman 3D
 =========
 
 PacMan clone using glut for the 3d rendering
