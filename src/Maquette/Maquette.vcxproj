@@ -110,7 +110,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="icon1.ico" />
-    <None Include="TODO.txt" />
     <None Include="world1.map" />
     <None Include="world2.map" />
     <None Include="world3.map" />
