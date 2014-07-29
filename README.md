@@ -1,7 +1,7 @@
 Pacman 3D
 =========
 
-PacMan clone using glut for the 3d rendering
+PacMan clone written in C++ and using glut for the 3d rendering
 
 ### Keys
 - **Arrows**: Move Pacman
